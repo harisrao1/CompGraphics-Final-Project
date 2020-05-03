@@ -13,7 +13,7 @@ public class SunRevolver : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speed = 0.5f;
+        speed = 0.1f;
         width= 50;
         height = 50;
     }
